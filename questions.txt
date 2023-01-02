@@ -1,0 +1,25 @@
+Arrays|
+2Sum|https://leetcode.com/problems/two-sum/
+Validate Subsequence|https://leetcode.com/problems/is-subsequence/
+Sorted Squared Array|https://leetcode.com/problems/squares-of-a-sorted-array
+Tournament Winner|#arrays
+Non Constructible Change|#arrays
+Buy Sell Stock|https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
+3Sum|https://leetcode.com/problems/3sum/
+Smallest difference i |https://leetcode.com/problems/minimum-absolute-difference/
+Smallest difference ii |https://www.codingninjas.com/codestudio/problems/smallest-difference-pair-of-values-from-two-unsorted-arrays_1199177
+Move element to end|https://leetcode.com/problems/move-zeroes/
+Monotonic Array|https://leetcode.com/problems/monotonic-array/
+LLs|
+
+
+
+
+
+
+
+
+
+
+
+
